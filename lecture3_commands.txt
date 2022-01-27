@@ -1,0 +1,264 @@
+    1  
+    2  ls
+    3  ls downloads
+    4  dir
+    5  mkdir lecture.txt
+    6  dir
+    7  nano lecture.txt
+    8  whoami
+    9  hostname ~/Dennis
+   10  hostname dennis
+   11  root
+   12  sudo su
+   13  python3 --version
+   14  git --version
+   15  clear
+   16  ls
+   17  mkdir ITP270-Dennis
+   18  ls
+   19  cd ITP270-Dennis
+   20  git init
+   21  ls
+   22  cd ..
+   23  ls
+   24  clear
+   25  git clone https://github.com/DennisMolina18/ITP270-Dennis.git
+   26  ls
+   27  cd lecture.txt
+   28  ls
+   29  cds ..
+   30  cd ..
+   31  ls
+   32  git clone https://github.com/DennisMolina18/ITP270-Dennis.git
+   33  cd n
+   34  cd nano.save
+   35  cd downloads
+   36  cd Downloads
+   37  ls
+   38  s
+   39  cd
+   40  ls
+   41  cd ITP270-Dennis
+   42  ls
+   43  ls
+   44  cd ITP270-Dennis
+   45  nano lecture3.txt
+   46  ls
+   47  nano lecture3.txt
+   48  git status
+   49  git add -a
+   50  git add -A
+   51  git status
+   52  clear
+   53  git commit -m "Adding the lecture3 file with folder structure"
+   54  git config --global user.name "DennisMolina18"
+   55  git commit -m "Adding the lecture3 file with folder structure"
+   56  omit --global
+   57  Omit --global
+   58  git config --global user.email "dennisarielmolina@gmail.com"
+   59  git commit -m "Adding the lecture3 file with folder structure"
+   60  git push
+   61  git remote add <ITP270-Dennis> https://github.com/DennisMolina18/ITP270-Dennis.git
+   62  git remote add <~/ITP270-Dennis> https://github.com/DennisMolina18/ITP270-Dennis.git
+   63  git clone https://github.com/DennisMolina18/ITP270-Dennis.git
+   64  git push
+   65  ls
+   66  cd ..
+   67  ls
+   68  git clone https://github.com/DennisMolina18/ITP270-Dennis.git
+   69  git push
+   70  git commit -m "Adding the lecture3 file with folder structure"
+   71  git config --global user.email "dennisarielmolina@gmail.com"
+   72  git config --global user.name "DennisMolina18"
+   73  git clone https://github.com/DennisMolina18/ITP270-Dennis.git
+   74  clear
+   75  git clone https://github.com/DennisMolina18/ITP270-Dennis.git
+   76  ls
+   77  cd ITP270-Dennis
+   78  LS
+   79  ls
+   80  cat Lecture3.txt
+   81  cat ITP270-Dennis
+   82  ls
+   83  rmdir lecture3.txt
+   84  mkdir lecture3.txt
+   85  rm lecture3.txt
+   86  rm nano.save
+   87  rm n
+   88  ls
+   89  cd lecture.txt
+   90  ls
+   91  pwd
+   92  ls
+   93  cd ..
+   94  rmdir lecture.txt
+   95  ls
+   96  cd ITP270-Dennis
+   97  ls
+   98  nano lecture3.txt
+   99  cat lecture3.txt
+  100  ls
+  101  cd ITP270-Dennis
+  102  ls
+  103  cd ..
+  104  pwd
+  105  cd ITP270-Dennis
+  106  pwd
+  107  cd ..
+  108  cp -v lecture3.txt /home/kali/ITP270-Dennis/ITP270-Dennis
+  109  ls
+  110  cd ITP270-Dennis
+  111  LS
+  112  ls
+  113  rm lecture3.txt
+  114  ls
+  115  cd ..
+  116  ls
+  117  cd ITP270-Dennis
+  118  git status
+  119  git add lecture3.txt
+  120  cd ..
+  121  git status
+  122  cd ..
+  123  git status
+  124  cd ITP270-Dennis
+  125  git status
+  126  cd ITP270-Dennis
+  127  git status
+  128  git add -A
+  129  git status
+  130  clear
+  131  git commit -m "Adding the lecture3 file with folder structure"
+  132  git push
+  133  pwd
+  134  git status
+  135  clear
+  136  ls
+  137  nano lecture33.txt
+  138  ls
+  139  cd ..
+  140  ls
+  141  nano lecture3.txt
+  142  ls
+  143  cd ITP270-Dennis
+  144  ls
+  145  nano lecture33.txt
+  146  ls
+  147  git push
+  148  git status
+  149  git add -A
+  150  git status
+  151  clear
+  152  git commit -m "Adding the lecture3 file with folder structure"
+  153  git push
+  154  clear
+  155  cd ..
+  156  pwd
+  157  mkdir Movies
+  158  cd Movies
+  159  mkdir Action
+  160  mkdir Comedy
+  161  mkdir Drama
+  162  clear
+  163  touch genres.txt
+  164  ls
+  165  mkdir scifi
+  166  cd scifi
+  167  touch terminator.txt
+  168  cd ..
+  169  ls
+  170  cd scifi
+  171  ls
+  172  pwd
+  173  clear
+  174  cd ..
+  175  ls
+  176  mkdir superhero
+  177  touch batman.txt
+  178  touch matrix-reloaded.txt
+  179  touch matrix-revolutions.txt
+  180  touch matrix.txt
+  181  touch superman.txt
+  182  touch wonderwoman.txt
+  183  ls
+  184  cd ..
+  185  ls
+  186  cd comedy
+  187  ls
+  188  cd Comedy
+  189  mkdir slapstick
+  190  cd slapstick
+  191  touch waterboy.txt
+  192  touch zoolander.txt
+  193  ls
+  194  cd ..
+  195  mkdir satire
+  196  ls
+  197  cd satire
+  198  touch fightclub.txt
+  199  ls
+  200  cd ..
+  201  touch the-office.txt
+  202  ls
+  203  cd ..
+  204  ls
+  205  cd Drama
+  206  mkdir biopic
+  207  cd biopic
+  208  touch cleopatra.txt
+  209  touch lincoln.txt
+  210  touch frida.txt
+  211  touch notorious.txt
+  212  touch ray.txt
+  213  ls
+  214  cd ..
+  215  ls
+  216  mkdir historical
+  217  cd historical
+  218  touch gladiator.txt
+  219  touch selma.txt
+  220  ls
+  221  cd ..
+  222  ls
+  223  cd ..
+  224  ls
+  225  tree
+  226  clear
+  227  pwd
+  228  cd ..
+  229  ls -a
+  230  ls -l
+  231  ls -t
+  232  ls -alt
+  233  ls
+  234  cd ITP270-Dennis
+  235  ls
+  236  cat lecture3.txt
+  237  cd ..
+  238  ls
+  239  cd Movies
+  240  ls
+  241  cd Action
+  242  ls
+  243  nano superman.txt
+  244  cat superman.txt
+  245  clear
+  246  nano /home/kali/Movies/Comedy/satire/fightclub.txt
+  247  ls
+  248  cd ..
+  249  ls
+  250  cd comedy
+  251  cd Comedy
+  252  ls
+  253  cd satire
+  254  ls
+  255  cd ..
+  256  nano /home/kali/Movies/Comedy/satire/fightclub.txt
+  257  cat /home/kali/Movies/Comedy/satire/fightclub.txt
+  258  cp /home/kali/Movies/Action/scifi/terminator.txt 
+  259  cp /home/kali/Movies/Action/scifi/terminator.txt /home/kali/Movies/Drama/historical
+  260  pwd
+  261  ls /home/kali/Movies/Drama/historical
+  262  cd ..
+  263  pwd
+  264  ls

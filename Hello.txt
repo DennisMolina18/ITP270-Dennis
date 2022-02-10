@@ -1,0 +1,24 @@
+1.  pwd
+2.  nano hello.txt
+3.  "hello, i am nano"
+4.  nano ~/.bash_profile
+5.  echo "Hello"
+6.  source ~/.bash_profile
+7.  nano ~/.bash_profile
+7.  alias p="pwd"
+7.  alias ll="ls -la"
+8.  source ~/.bash_profile
+9.  p
+9.  ll
+10. nano ~/.bash_profile
+10. export USER="Dennis Molina"
+11. source ~/.bash_profile
+12. echo $USER
+13. nano~/.bash_profile
+13. export PS1=">> "
+14. source ~/.bash_profile
+15. p
+15. ll
+16. echo $HOME
+17. echo $PATH
+18. env
